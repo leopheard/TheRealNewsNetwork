@@ -59,7 +59,7 @@ msgid "Daily Podcast"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Unknown"
+msgid "Daily Podcast (full)"
 msgstr ""
 
 # empty string with id 32003

@@ -31,36 +31,37 @@ def main_menu():
             'path': plugin.url_for('episodes1'),
             'thumbnail': "https://therealnews.com/wp-content/uploads/2017/10/trnnBanner.mobile-150x150.jpg"},
         {
-            'label': plugin.get_string(30002), 
-            'path': plugin.url_for('episodes2'),
-            'thumbnail': "https://therealnews.com/wp-content/uploads/2017/10/trnnBanner.mobile-150x150.jpg"},
-        {
-            'label': plugin.get_string(30003),
-            'path': plugin.url_for('episodes3'),
-            'thumbnail': "https://therealnews.com/wp-content/uploads/2017/10/trnnBanner.mobile-150x150.jpg"},
-        {
-            'label': plugin.get_string(30004),
-            'path': plugin.url_for('episodes4'),
-            'thumbnail': "https://therealnews.com/wp-content/uploads/2017/10/trnnBanner.mobile-150x150.jpg"},
-        {
-            'label': plugin.get_string(30005),
-            'path': plugin.url_for('episodes5'),
-            'thumbnail': "https://therealnews.com/wp-content/uploads/2017/10/trnnBanner.mobile-150x150.jpg"},
-        {
             'label': plugin.get_string(30006),
             'path': plugin.url_for('episodes6'),
+            'thumbnail': "https://therealnews.com/wp-content/uploads/2017/10/trnnBanner.mobile-150x150.jpg"},
+
+        {
+            'label': plugin.get_string(30002), 
+            'path': plugin.url_for('episodes2'),
             'thumbnail': "https://therealnews.com/wp-content/uploads/2017/10/trnnBanner.mobile-150x150.jpg"},
         {
             'label': plugin.get_string(30007),
             'path': plugin.url_for('episodes7'),
             'thumbnail': "https://therealnews.com/wp-content/uploads/2017/10/trnnBanner.mobile-150x150.jpg"},
         {
+            'label': plugin.get_string(30003),
+            'path': plugin.url_for('episodes3'),
+            'thumbnail': "https://therealnews.com/wp-content/uploads/2017/10/trnnBanner.mobile-150x150.jpg"},
+        {
             'label': plugin.get_string(30008),
             'path': plugin.url_for('episodes8'),
             'thumbnail': "https://therealnews.com/wp-content/uploads/2017/10/trnnBanner.mobile-150x150.jpg"},
         {
+            'label': plugin.get_string(30004),
+            'path': plugin.url_for('episodes4'),
+            'thumbnail': "https://therealnews.com/wp-content/uploads/2017/10/trnnBanner.mobile-150x150.jpg"},
+        {
             'label': plugin.get_string(30009),
             'path': plugin.url_for('episodes9'),
+            'thumbnail': "https://therealnews.com/wp-content/uploads/2017/10/trnnBanner.mobile-150x150.jpg"},
+        {
+            'label': plugin.get_string(30005),
+            'path': plugin.url_for('episodes5'),
             'thumbnail': "https://therealnews.com/wp-content/uploads/2017/10/trnnBanner.mobile-150x150.jpg"},
         {
             'label': plugin.get_string(30010),
